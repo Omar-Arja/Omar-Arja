@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Omar El Arja, a junior full-stack web developer dedicated to bringing ideas to life in the digital world. Right now, I'm focused on **InvestorConnect**, an app that's changing the game in investor-startup connections – imagine it as the "Tinder for investment opportunities." My journey in tech is all about exploring development, with a special interest in AI, design, and mobile apps.
+I'm Omar Arja, a junior full-stack web developer dedicated to bringing ideas to life in the digital world. Right now, I'm focused on **InvestorConnect**, an app that's changing the game in investor-startup connections – imagine it as the "Tinder for investment opportunities." My journey in tech is all about exploring development, with a special interest in AI, design, and mobile apps.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omar.arja.39) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omararja__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-arja-113447282) 
